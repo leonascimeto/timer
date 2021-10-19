@@ -1,6 +1,11 @@
-#Aplicação simples: Timer
+# Aplicação simples: Timer
 
-HTML, CSS, JAVASCRIPT
+## HTML, CSS, JAVASCRIPT
 
-uso das seguintes ferramentas:
-Date, SetInterval, Seletores e Eventos;
+## uso das seguintes ferramentas:
+- Date
+- SetInterval
+- Seletores
+- Eventos
+
+Demo: https://leonascimeto.github.io/timer/
